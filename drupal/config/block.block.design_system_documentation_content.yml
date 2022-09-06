@@ -1,17 +1,17 @@
-uuid: 925e2fa1-494e-4394-9964-7f2b2989d987
+uuid: 5ede3c95-fd0b-442b-aa8b-56f3a7f6ed6b
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - design_system_documentation
 _core:
-  default_config_hash: kigu8pTxXt1qGR2NJ5HHdC4G2G1wsDrIjLPKBT5wUBc
-id: bartik_content
-theme: bartik
+  default_config_hash: 6_eJxtyfANKFE_nfriHKgrARRIPHH88sI6jvQ4EHbBc
+id: design_system_documentation_content
+theme: design_system_documentation
 region: content
-weight: 0
+weight: -3
 provider: null
 plugin: system_main_block
 settings:

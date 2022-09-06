@@ -1,16 +1,16 @@
-uuid: efb4a5d0-6a40-4fbe-a9a6-3987814cd120
+uuid: f86436eb-391a-4cce-8ab4-7df0604c4d08
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - design_system_documentation
 _core:
-  default_config_hash: y0bXRvKYQQKkf_RVxA3aOPGpIfKKsDOzzrWYCgjxJ9Y
-id: bartik_breadcrumbs
-theme: bartik
-region: breadcrumb
+  default_config_hash: 2rIN97Rd7-rjv3P4h0-xrZnAgPJHyXFEwrB--sS2_qE
+id: design_system_documentation_breadcrumbs
+theme: design_system_documentation
+region: header
 weight: 0
 provider: null
 plugin: system_breadcrumb_block

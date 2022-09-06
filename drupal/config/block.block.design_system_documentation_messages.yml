@@ -1,15 +1,15 @@
-uuid: 4233b92d-b830-415a-a082-809ecb61b056
+uuid: 6ac169f3-070b-4410-bc1c-f70b5a4cbc6e
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - design_system_documentation
 _core:
-  default_config_hash: KC12e0aosUnBBs5bd374JVcQjJaFNOSIHzu0dUGf22o
-id: bartik_messages
-theme: bartik
+  default_config_hash: bZvFlENVti4PpqT6kqoC86B5_lXp6aE-d4nrvLMU4CY
+id: design_system_documentation_messages
+theme: design_system_documentation
 region: highlighted
 weight: 0
 provider: null
